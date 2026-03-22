@@ -1,4 +1,4 @@
 # OnlineIDE
 ## 📐 System Design
 
-👉 [View System Design](./SystemDesign.md)
+👉 [View System Design](./SystemDesign.MD)
